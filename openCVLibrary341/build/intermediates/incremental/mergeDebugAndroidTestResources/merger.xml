@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="__tested_artifact__::openCVLibrary341$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/intermediates/packaged_res/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="__tested_artifact__::openCVLibrary341" from-dependency="true" generated-set="__tested_artifact__::openCVLibrary341$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/intermediates/packaged_res/debug"><file path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/intermediates/packaged_res/debug/values/values.xml" qualifiers=""><declare-styleable name="CameraBridgeViewBase">
+       <attr format="boolean" name="show_fps"/>
+       <attr format="integer" name="camera_id">
+          <enum name="any" value="-1"/>
+          <enum name="back" value="99"/>
+          <enum name="front" value="98"/>
+       </attr>
+    </declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTest$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/src/androidTest/res"/><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/generated/res/rs/androidTest/debug"/><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/generated/res/resValues/androidTest/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTest" generated-set="androidTest$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/src/androidTest/res"/><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/generated/res/rs/androidTest/debug"/><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/build/generated/res/resValues/androidTest/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTestDebug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/src/androidTestDebug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTestDebug" generated-set="androidTestDebug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/DKI/mywork/JamLiveAlphaGo/openCVLibrary341/src/androidTestDebug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CameraBridgeViewBase">
+       <attr format="boolean" name="show_fps"/>
+       <attr format="integer" name="camera_id">
+          <enum name="any" value="-1"/>
+          <enum name="back" value="99"/>
+          <enum name="front" value="98"/>
+       </attr>
+    </declare-styleable></configuration></mergedItems></merger>
