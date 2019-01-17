@@ -117,9 +117,9 @@ public class FloatingViewService extends Service implements View.OnClickListener
         switch (v.getId()) {
             case R.id.btn_capture:
                 //switching views
-                collapsedView.setVisibility(View.GONE);
-                btnClose.setVisibility(View.GONE);
-                btnCapture.setVisibility(View.GONE);
+//                collapsedView.setVisibility(View.GONE);
+//                btnClose.setVisibility(View.GONE);
+//                btnCapture.setVisibility(View.GONE);
 
                 startCapture();
 
